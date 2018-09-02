@@ -21,5 +21,44 @@ A raiz de esto , Diablo fue inspirado en 4 robots del programa:
 
 ![](/multimedia/inspiraciones/ba3ad0c4-ff28-4076-adc6-8147c5d9fda0.jpg)
 
+## Bocetos 
+Luego de tener ideas de como queramos a El diablo empezo la etapa de diseño del Robot, Donde a priori tomamos partes de los robots de inspiracion y las combinamos:
+
+
+
+![](/multimedia/Bocetos/bocetos funcionamiento algoritmo.png)
+
+
+En la imagen se aprecia la idea de unas "pinzas" que atraparan al enemigo para luego con el arma(un martillo) lo dañara.
+
+
+
+![](/multimedia/Bocetos/bocetos3.jpg)
+
+
+
+También Vimos la coraza/armazon que debia ser algo que resistiera golpes y cortaduras , y ademas pudiera dañar al enemigo.Ademas se aprecia el diseño de unas cierras en los extremos de las pinzas , para mayor daño.
+
+
+
+![](/multimedia/Bocetos/bocetos4.jpg)
+
+
+
+Se aprecia la idea de poner puas en las ruedas para evitar posible sintentos de pincharlas y dañar al enemigo con alguna embestida.
+Tambien vimos como debia ser el arma , queriamos algo que duriese perforar la coraza enemiga y que pusiera ser removible.
+
+
+
+![](/multimedia/Bocetos/bocetos.jpg)
+
+k
+
+
+
+
+
+
+
 
 
