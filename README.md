@@ -1,16 +1,16 @@
-# <Título del proyecto> - <Año>
+# El Diablo - 2018
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+
 
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Francisco Muñoz G. - FCFM
+- Gary Vidal C. - FCFM
+- Paloma Vildoso P. - FCFM
+- Felipe Higuera C. - FAU
 
 
 ## Descripción del proyecto
