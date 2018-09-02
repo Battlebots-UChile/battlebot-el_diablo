@@ -5,6 +5,8 @@
 Antes de empezar el proyecto , como motivo de inspiración nos centramos en ver videos del programa de TV "BattleBots" 
 (https://www.youtube.com/watch?v=GkbAcwYix7I)
 
+![](/multimedia/inspiraciones/14cef7d3-8599-4da3-b9f7-ef95bee14e3c.jpg)
+
 A raiz de esto , Diablo fue inspirado en 4 robots del programa:
 
 
@@ -18,5 +20,6 @@ A raiz de esto , Diablo fue inspirado en 4 robots del programa:
 
 
 ![](/multimedia/inspiraciones/ba3ad0c4-ff28-4076-adc6-8147c5d9fda0.jpg)
+
 
 
