@@ -2,7 +2,7 @@
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/hell2.png)
 
 
 
