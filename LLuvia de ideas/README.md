@@ -26,7 +26,7 @@ Luego de tener ideas de como queramos a El diablo empezo la etapa de diseño del
 
 
 
-![](/multimedia/Bocetos/bocetos funcionamiento algoritmo.png)
+![](/multimedia/Bocetos/bocetos2.jpg)
 
 
 En la imagen se aprecia la idea de unas "pinzas" que atraparan al enemigo para luego con el arma(un martillo) lo dañara.
