@@ -38,14 +38,21 @@ Para la defensa externa de tan formidable maquina de destrucción, se confeccion
 
 ### ¿Cómo crear una maquina del mal? (BATTLEBOT)
 
-1°CONSERGUIR SEGUIDORES (compañeros) QUE OSEN CREAR A LA CRIATURA
-2°INSPIRACIONES DE OTRAS CRIATURAS DEL MAL (videos de batallas , robots ya diseñados, animales , ect)
-3°DIBUJAR PENTAGRAMAS HECHOS DE SANGRE Y HUESOS DE OTRAS CRIATURAS( lluvia de ideas y bocetos de estas)
-4°REALIZAR EL PRIMER RITUAL DE INVOCACION PARA TENER A TUS PRIMERAS CRIATURAS DIABOLICAS (Realizar primeras maquetas del robot, del arma , su coraza, base , ect)
-5°LUEGO DE LOS PRIMEROS RITUALES , DEJAR QUE TU CRIATURA PRACTIQUE SUS HABILIDADES MALIGNAS CON LOS ESBIRROS(Pruebas del funcionamiento de cada parte movil del robot)
-6°VER LAS DEVILIDADES Y FORTALEZAS DE TU CRIATURA , MEJORARLAS , SEGUIR SU ENTRENAMIENTO (Mejorar detalles y falencias del robot, realizar nuevas maquetas y planos)
+1°CONSERGUIR SEGUIDORES (compañeros) QUE OSEN CREAR A LA CRIATURA.
+
+2°INSPIRACIONES DE OTRAS CRIATURAS DEL MAL (videos de batallas , robots ya diseñados, animales , ect).
+
+3°DIBUJAR PENTAGRAMAS HECHOS DE SANGRE Y HUESOS DE OTRAS CRIATURAS( lluvia de ideas y bocetos de estas).
+
+4°REALIZAR EL PRIMER RITUAL DE INVOCACION PARA TENER A TUS PRIMERAS CRIATURAS DIABOLICAS (Realizar primeras maquetas del robot, del arma , su coraza, base , ect).
+
+5°LUEGO DE LOS PRIMEROS RITUALES , DEJAR QUE TU CRIATURA PRACTIQUE SUS HABILIDADES MALIGNAS CON LOS ESBIRROS(Pruebas del funcionamiento de cada parte movil del robot).
+
+6°VER LAS DEVILIDADES Y FORTALEZAS DE TU CRIATURA , MEJORARLAS , SEGUIR SU ENTRENAMIENTO (Mejorar detalles y falencias del robot, realizar nuevas maquetas y planos).
+
 8°LUEGO DE LO ANTERIOR , TU CRIATURA ESTA LISTA PARA QUEMAR A TUS ENEMIGOS Y LLEVARLOS AL INFIERNO HU3HU3HU3HU3HU3
-(con todo lo anterior , obtendras una maquina mata-robots )
+(con todo lo anterior , obtendras una maquina mata-robots ).
+
 
 ![Robot Ejemplo](/multimedia/THE_EVIL.png)
 
