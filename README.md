@@ -1,10 +1,10 @@
 # El Diablo - 2018
 
-Proyecto orientado a crear el mejor robot de batalla de todos los tiempos. Será un robot de DESTRUCCIÓN MASIVA, que impondrá respeto con tan solo presentarse en la arena de batalla. Además, será comandada por los mejores gatitos que una impresora 3D podría imprimir.
+Proyecto orientado a crear el mejor robot de batalla de todos los tiempos. Será un robot de DESTRUCCIÓN MASIVA, que impondré respeto con tan solo presentarse en la arena de batalla. Además, será comandada por los mejores gatitos que una impresora 3D podría imprimir.
 
 Este ambicioso proyecto está siendo elaborado por un grupo de estudiantes bastante particulares: uno de la Facultad de Arquitectura y Urbanismo, y tres de la Facultad de Ciencias Físicas y Matemáticas.
 
-Los cuatro juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradójicamente, creando un arma de destrucción masiva)
+Los cuadro juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradójicamente, creando un arma de destrucción masiva)
 
 ![Robot Ejemplo](/multimedia/hell2.png)
 
@@ -21,13 +21,9 @@ Los cuatro juntos, combatirán a las fuerzas del mal y salvarán el mundo (parad
 ### Estrategia utilizada
 #### Ofensiva
 Invocando a las fuerzas más temibles que la humanidad a conocido, nuestro robot destruirá a la competencia con ingeniosas tácticas creadas por el grupo de gatitos que lo comandan:
-
 Un Martillo.
-
 Pero no tan solo eso... será un martillo en donde la cabeza se pueda desmontar y se puede cambiar por... no sé... Una Sierra! Un Mazo! Un Hacha!
-
 Las posibilidades son infinitas, y dependerá del enemigo que está en frente, es cómo nosotros cambiaremos el arma.
-
 Y no tan solo eso... estamos pensando en incorporar más armas, que no serán reveladas hasta el día de la batalla...
 
 #### Defensiva
@@ -44,15 +40,17 @@ Para la defensa externa de tan formidable maquina de destrucción, se confeccion
 
 1°CONSERGUIR SEGUIDORES (compañeros) QUE OSEN CREAR A LA CRIATURA.
 
-2°INSPIRACIONES DE OTRAS CRIATURAS DEL MAL (videos de batallas , robots ya diseñados, animales , ect).
+2°INSPIRACIONES DE OTRAS CRIATURAS DEL MAL (battlebot-el_diablo/LLuvia de ideas/README.md).
 
-3°DIBUJAR PENTAGRAMAS HECHOS DE SANGRE Y HUESOS DE OTRAS CRIATURAS( lluvia de ideas y bocetos de estas).
+3°DIBUJAR PENTAGRAMAS HECHOS DE SANGRE Y HUESOS DE OTRAS CRIATURAS(battlebot-el_diablo/multimedia/Bocetos)
 
-4°REALIZAR EL PRIMER RITUAL DE INVOCACION PARA TENER A TUS PRIMERAS CRIATURAS DIABOLICAS (Realizar primeras maquetas del robot, del arma , su coraza, base , ect).
+4°REALIZAR EL PRIMER RITUAL DE INVOCACION PARA TENER A TUS PRIMERAS CRIATURAS DIABOLICAS (battlebot-el_diablo/planos).
 
-5°LUEGO DE LOS PRIMEROS RITUALES , DEJAR QUE TU CRIATURA PRACTIQUE SUS HABILIDADES MALIGNAS CON LOS ESBIRROS(Pruebas del funcionamiento de cada parte movil del robot).
+5°LUEGO DE LOS PRIMEROS RITUALES , DEJAR QUE TU CRIATURA PRACTIQUE SUS HABILIDADES MALIGNAS CON LOS ESBIRROS(battlebot-el_diablo/codigos).
 
-6°VER LAS DEVILIDADES Y FORTALEZAS DE TU CRIATURA , MEJORARLAS , SEGUIR SU ENTRENAMIENTO (Mejorar detalles y falencias del robot, realizar nuevas maquetas y planos).
+6°AL LLEGAR A ESTA ETAPA, TENDRAS TU DIABLO CASI LISTO! ESTARS COMPARTIENDO VIDEOS DE TU DIABLO CON TUS AMIGOS (battlebot-el_diablo/multimedia/Videos funcionamiento)
+
+7°VE LAS DEBILIDADES Y FORTALEZAS DE TU CRIATURA , MEJORARLAS , SEGUIR SU ENTRENAMIENTO (Mejorar detalles y falencias del robot, realizar nuevas maquetas y planos).
 
 8°LUEGO DE LO ANTERIOR , TU CRIATURA ESTA LISTA PARA QUEMAR A TUS ENEMIGOS Y LLEVARLOS AL INFIERNO HU3HU3HU3HU3HU3
 (con todo lo anterior , obtendras una maquina mata-robots ).
