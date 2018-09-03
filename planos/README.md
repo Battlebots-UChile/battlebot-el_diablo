@@ -1,6 +1,4 @@
 # Archivos de planos incluidos
 
-Subir al repositorio todos los modelos y planos utilizados para construir el battlebot:
-
-- Modelo 3D
-- Planos de corte de cortadora láser (.pdf)
+- Modelo 3D (Armazon y protecciones de arduino/puente H)
+- Planos de corte de cortadora láser de la base , armazon y protectores de ruedas
