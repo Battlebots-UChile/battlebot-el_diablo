@@ -57,9 +57,20 @@ Luego , vimos como seria la movilidad; queriamos un robot muy movil , ágil y qu
 
 ![](/multimedia/Bocetos/boceto_arma_4.jpg)
 
+![](/multimedia/Bocetos/boceto_ideas_arma.jpg)
+
 ![](/multimedia/Bocetos/analisis_fuerza_arma.jpg)
 
 ![](/multimedia/Bocetos/calculos_arma.jpg)
+
+Entonces planeamos de como seria el arma , viendo su funcionamiento y diseño , hicimos calculos de cuanta fuerza podia ejercer al implementar resortes y otras condiciones iniciales.
+
+![](/multimedia/Bocetos/boceto_leba.jpg)
+
+para el buen rendimiento del arma , decicimos implementar un sistema con una "leva" , la cual ayudaria al servo/motor a ejercer la fuerza necesaria para realizar el mocimiento de ataque .
+
+
+
 
 
 
