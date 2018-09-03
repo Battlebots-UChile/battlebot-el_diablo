@@ -1,4 +1,4 @@
-## LLuvia de ideas
+## Lluvia de ideas
 
 ## Inspiraciones 
 
