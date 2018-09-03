@@ -27,7 +27,10 @@ Las posibilidades son infinitas, y dependerá del enemigo que está en frente, e
 Y no tan solo eso... estamos pensando en incorporar más armas, que no serán reveladas hasta el día de la batalla...
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+Para proteger las diabólicas entrañas electrónicas de este ser, se usaron cajas impresas en 3D en donde se colocaron los componentes más sensibles del Diablo (arduino, puente-H ,etc) , para asi evitar daños internos a nuestra maquina de matar. 
+
+Para la defensa externa de tan formidable maquina de destrucción, se confeccionó una coraza que cubriese completamente todo el interior del Diablo. En un principio esta sería un blindaje inclinado de MDF que con el desarrollo posterior del vehiculo se transformó en una cubierta ovalada de MDF para aumentar las probabilidades de que un golpe resbale. Cabe destacar que el diseño de la coraza externa está pensado para que el martillo destructor del Diablo se pueda mover con total libertad.
+
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
