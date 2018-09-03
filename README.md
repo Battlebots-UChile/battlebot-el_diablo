@@ -40,13 +40,13 @@ Para la defensa externa de tan formidable maquina de destrucción, se confeccion
 
 1°CONSERGUIR SEGUIDORES (compañeros) QUE OSEN CREAR A LA CRIATURA.
 
-2°INSPIRACIONES DE OTRAS CRIATURAS DEL MAL (battlebot-el_diablo/LLuvia de ideas/README.md).
+2°INSPIRACIONES DE OTRAS CRIATURAS DEL MAL ( revisar nuestras inspiraciones en: battlebot-el_diablo/LLuvia de ideas/README.md).
 
-3°DIBUJAR PENTAGRAMAS HECHOS DE SANGRE Y HUESOS DE OTRAS CRIATURAS(battlebot-el_diablo/multimedia/Bocetos)
+3°DIBUJAR PENTAGRAMAS HECHOS DE SANGRE Y HUESOS DE OTRAS CRIATURAS (bocetos del Diablo en: battlebot-el_diablo/multimedia/Bocetos)
 
-4°REALIZAR EL PRIMER RITUAL DE INVOCACION PARA TENER A TUS PRIMERAS CRIATURAS DIABOLICAS (battlebot-el_diablo/planos).
+4°REALIZAR EL PRIMER RITUAL DE INVOCACION PARA TENER A TUS PRIMERAS CRIATURAS DIABOLICAS (cortar en laser los siguientes archivos: battlebot-el_diablo/planos y revisar en multimedia el ensamblaje de las piezas).
 
-5°LUEGO DE LOS PRIMEROS RITUALES , DEJAR QUE TU CRIATURA PRACTIQUE SUS HABILIDADES MALIGNAS CON LOS ESBIRROS(battlebot-el_diablo/codigos).
+5°LUEGO DE LOS PRIMEROS RITUALES , DEJAR QUE TU CRIATURA PRACTIQUE SUS HABILIDADES MALIGNAS CON LOS ESBIRROS(Cargar el codigo y la APK  de la carpeta: battlebot-el_diablo/codigos).
 
 6°AL LLEGAR A ESTA ETAPA, TENDRAS TU DIABLO CASI LISTO! ESTARS COMPARTIENDO VIDEOS DE TU DIABLO CON TUS AMIGOS (battlebot-el_diablo/multimedia/Videos funcionamiento)
 
