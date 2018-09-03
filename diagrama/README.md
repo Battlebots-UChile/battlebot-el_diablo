@@ -1,3 +1,3 @@
 # Diagrama electromecánico
 
-![](/multimedia/diagrama_electromecanico.jpg)
+![](/multimedia/Esquema_Electro.jpg)
