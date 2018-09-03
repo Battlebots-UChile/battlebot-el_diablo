@@ -1,10 +1,10 @@
 # El Diablo - 2018
 
-Proyecto orientado a crear el mejor robot de batalla de todos los tiempos. Será un robot de DESTRUCCIÓN MASIVA, que impondré respeto con tan solo presentarse en la arena de batalla. Además, será comandada por los mejores gatitos que una impresora 3D podría imprimir.
+Proyecto orientado a crear el mejor robot de batalla de todos los tiempos. Será un robot de DESTRUCCIÓN MASIVA, que impondrá respeto con tan solo presentarse en la arena de batalla. Además, será comandada por los mejores gatitos que una impresora 3D podría imprimir.
 
 Este ambicioso proyecto está siendo elaborado por un grupo de estudiantes bastante particulares: uno de la Facultad de Arquitectura y Urbanismo, y tres de la Facultad de Ciencias Físicas y Matemáticas.
 
-Los cuadro juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradójicamente, creando un arma de destrucción masiva)
+Los cuatro juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradójicamente, creando un arma de destrucción masiva)
 
 ![Robot Ejemplo](/multimedia/hell2.png)
 
