@@ -86,13 +86,25 @@ Pensamos en implementar un sistema de agarre a base de dos pinsas , las cuales s
 
 ![](/multimedia/Bocetos/boceto12.jpg)
 
+![](/multimedia/Bocetos/boceto13.jpg)
+
 Boceto de las protecciones del arduino y Puente H , son para alejar el sistema electronico de la maquinaria y de posibles daños del enemigo, ademas ayudan a ordenar el cableado interno de El Diablo.
 
+![](/multimedia/Bocetos/boceto8.png)
 
 ![](/multimedia/Bocetos/bocetos_lluvia_de_ideas.png)
 
 
 Finalmente ,al congertir todas nuestas ideas , dimos con el diseño de El diablo que queriamos; una maquina de matar muy adorable.
+
+![](/multimedia/Bocetos/confeccion_planos.png)
+
+Empezamos a diseñar la coraza que queriamos , ya en escala real para saber a que nos enfrentariamos en al realidad.
+
+![](/multimedia/Bocetos/bocetos_funcionamiento_algoritmo.png)
+
+Tambien avanzamos en la parte de programacion , donde boceteamos lo que queriamos que hiciera el robot. en la imagen se aprecia el algortimo.
+
 
 
 
