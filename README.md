@@ -21,9 +21,13 @@ Los cuatro juntos, combatirán a las fuerzas del mal y salvarán el mundo (parad
 ### Estrategia utilizada
 #### Ofensiva
 Invocando a las fuerzas más temibles que la humanidad a conocido, nuestro robot destruirá a la competencia con ingeniosas tácticas creadas por el grupo de gatitos que lo comandan:
+
 Un Martillo.
+
 Pero no tan solo eso... será un martillo en donde la cabeza se pueda desmontar y se puede cambiar por... no sé... Una Sierra! Un Mazo! Un Hacha!
+
 Las posibilidades son infinitas, y dependerá del enemigo que está en frente, es cómo nosotros cambiaremos el arma.
+
 Y no tan solo eso... estamos pensando en incorporar más armas, que no serán reveladas hasta el día de la batalla...
 
 #### Defensiva
