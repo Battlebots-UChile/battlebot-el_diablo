@@ -33,7 +33,8 @@ Para la defensa externa de tan formidable maquina de destrucción, se confeccion
 
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+
+![](/multimedia/Diagrama_de_ideas.jpeg)
 
 ### *BONUS*: Paso a Paso
 <Explicar brevemente el paso a paso de cómo construir el battlebot.>
