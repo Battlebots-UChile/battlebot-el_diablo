@@ -52,6 +52,9 @@ Luego , vimos como seria la movilidad; queriamos un robot muy movil , ágil y qu
 ![](/multimedia/Bocetos/boceto_arma.jpg)
 
 
+![](/multimedia/Bocetos/bocetos_arma.jpg)
+
+
 ![](/multimedia/Bocetos/boceto_arma_2.jpg)
 
 
@@ -79,7 +82,7 @@ Para el buen rendimiento del arma , decicimos implementar un sistema con una "le
 
 ![](/multimedia/Bocetos/boceto_pinzas.jpg)
 
-Pensamos en implementar un sistema de agarre a base de dos pinsas , las cuales serian anccionadas por un servo motor.Lamentablemente por temas de tiempo y espacion no se pudo llevar a cabo
+Pensamos en implementar un sistema de agarre a base de dos pinsas , las cuales serian anccionadas por un servo motor.Lamentablemente por temas de tiempo y espacion no se pudo llevar a cabo.
 
 
 
