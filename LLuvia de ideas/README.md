@@ -88,7 +88,9 @@ Pensamos en implementar un sistema de agarre a base de dos pinsas , las cuales s
 
 Boceto de las protecciones del arduino y Puente H , son para alejar el sistema electronico de la maquinaria y de posibles daños del enemigo, ademas ayudan a ordenar el cableado interno de El Diablo.
 
-![](/multimedia/Bocetos/bocetos_lluvia_de_ideas.jpg)
+
+![](/multimedia/Bocetos/bocetos_lluvia_de_ideas.png)
+
 
 Finalmente ,al congertir todas nuestas ideas , dimos con el diseño de El diablo que queriamos; una maquina de matar muy adorable.
 
