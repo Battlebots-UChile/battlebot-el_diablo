@@ -4,7 +4,7 @@ Proyecto orientado a crear el mejor robot de batalla de todos los tiempos. Será
 
 Este ambicioso proyecto está siendo elaborado por un grupo de estudiantes bastante particulares: uno de la Facultad de Arquitectura y Urbanismo, y tres de la Facultad de Ciencias Físicas y Matemáticas.
 
-Los tres juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradójicamente, creando un arma de destrucción masiva)
+Los cuadro juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradójicamente, creando un arma de destrucción masiva)
 
 ![Robot Ejemplo](/multimedia/hell2.png)
 
