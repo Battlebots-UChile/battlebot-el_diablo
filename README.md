@@ -20,7 +20,11 @@ Los tres juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradó
 
 ### Estrategia utilizada
 #### Ofensiva
-
+Invocando a las fuerzas más temibles que la humanidad a conocido, nuestro robot destruirá a la competencia con ingeniosas tácticas creadas por el grupo de gatitos que lo comandan:
+Un Martillo.
+Pero no tan solo eso... será un martillo en donde la cabeza se pueda desmontar y se puede cambiar por... no sé... Una Sierra! Un Mazo! Un Hacha!
+Las posibilidades son infinitas, y dependerá del enemigo que está en frente, es cómo nosotros cambiaremos el arma.
+Y no tan solo eso... estamos pensando en incorporar más armas, que no serán reveladas hasta el día de la batalla...
 
 #### Defensiva
 <Explicar el modo de defensa del robot.>
@@ -30,6 +34,9 @@ Los tres juntos, combatirán a las fuerzas del mal y salvarán el mundo (paradó
 
 ### *BONUS*: Paso a Paso
 <Explicar brevemente el paso a paso de cómo construir el battlebot.>
+
+![Robot Ejemplo](/multimedia/THE_EVIL.png)
+
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
