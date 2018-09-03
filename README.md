@@ -1,10 +1,8 @@
 # El Diablo - 2018
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 
+Proyecto orientado a crear el mejor robot de batalla de todos los tiempos. Será un robot de DESTRUCCIÓN MASIVA, que impondré respeto con tan solo presentarse en la arena de batalla. Además, será comandada por los mejores gatitos que una impresora 3D podría imprimir.
 
 ![Robot Ejemplo](/multimedia/hell2.png)
-
-
 
 ## Integrantes
 - Francisco Muñoz G. - FCFM
