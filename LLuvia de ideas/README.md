@@ -36,10 +36,35 @@ También Vimos la coraza/armazon que debia ser algo que resistiera golpes y cort
 
 ![](/multimedia/Bocetos/bocetos4.jpg)
 
-Se aprecia la idea de poner puas en las ruedas para evitar posible sintentos de pincharlas y dañar al enemigo con alguna embestida.
-Tambien vimos como debia ser el arma , queriamos algo que duriese perforar la coraza enemiga y que pusiera ser removible.
+![](/multimedia/Bocetos/boceto5.jpg)
 
-![](/multimedia/Bocetos/bocetos.jpg)
+Se aprecia la idea de poner puas en las ruedas para evitar posible sintentos de pincharlas y dañar al enemigo con alguna embestida.
+Tambien vimos como debia ser el arma , queriamos algo que pudiese perforar la coraza enemiga y que pusiera ser removible.
+
+![](/multimedia/Bocetos/boceto6.jpg)
+
+![](/multimedia/Bocetos/boceto7.jpg)
+
+![](/multimedia/Bocetos/boceto10.jpg)
+
+Luego , vimos como seria la movilidad; queriamos un robot muy movil , ágil y que fuera dificil de capturar. empezamos con la idea de que ruviera muchas extremidades (como un escorpion) peor luego encontramos mas eficas (y sencillo) que tuviese 3 ruedas , una de pivote y dos comandadas por nosotros.
+
+![](/multimedia/Bocetos/boceto_arma.jpg)
+
+![](/multimedia/Bocetos/boceto_arma_2.jpg)
+
+![](/multimedia/Bocetos/boceto_arma_3.jpg)
+
+![](/multimedia/Bocetos/boceto_arma_4.jpg)
+
+![](/multimedia/Bocetos/analisis_fuerza_arma.jpg)
+
+![](/multimedia/Bocetos/calculos_arma.jpg)
+
+
+
+
+
 
 
 
