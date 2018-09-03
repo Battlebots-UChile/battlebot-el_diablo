@@ -84,6 +84,13 @@ Para el buen rendimiento del arma , decicimos implementar un sistema con una "le
 
 Pensamos en implementar un sistema de agarre a base de dos pinsas , las cuales serian anccionadas por un servo motor.Lamentablemente por temas de tiempo y espacion no se pudo llevar a cabo.
 
+![](/multimedia/Bocetos/boceto12.jpg)
+
+Boceto de las protecciones del arduino y Puente H , son para alejar el sistema electronico de la maquinaria y de posibles daños del enemigo, ademas ayudan a ordenar el cableado interno de El Diablo.
+
+![](/multimedia/Bocetos/bocetos_lluvia_de_ideas.jpg)
+
+Finalmente ,al congertir todas nuestas ideas , dimos con el diseño de El diablo que queriamos; una maquina de matar muy adorable.
 
 
 
